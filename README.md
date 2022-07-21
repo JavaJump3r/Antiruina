@@ -1,9 +1,3 @@
-# Fabric Example Mod
+# AntiRuina mod
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod was made for streamers (zakviel aka ruina) to hide server ip's, so ruina can't leak ip of every private server (at least in minecraft KEKW)
