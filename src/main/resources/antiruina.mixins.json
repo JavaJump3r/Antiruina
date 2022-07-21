@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.github.javajump3r.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "IpAdressMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

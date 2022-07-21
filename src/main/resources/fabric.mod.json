@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "antiruina",
+  "version": "${version}",
+
+  "name": "AntiRuina",
+  "description": "This mod was made for streamers (zakviel aka ruina) to hide server ip's, so ruina can't leak ip of every private server (at least in minecraft KEKW)",
+  "authors": [
+    "JavaJumper"
+  ],
+  "contact": {
+    "homepage": "https://github.com/JavaJump3r/",
+    "sources": "https://github.com/JavaJump3r/AntiRuina"
+  },
+
+  "license": "MIT",
+  "icon": "assets/antiruina/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+    ]
+  },
+  "mixins": [
+    "antiruina.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
